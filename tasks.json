@@ -165,6 +165,20 @@
       "subtasks": [],
       "remarks": "Need to send Joann",
       "completedAt": null
+    },
+    {
+      "id": "tmqq9zabf3b4m",
+      "title": "Meeting with Mr Clean (James & Shan)",
+      "cat": "codetrace",
+      "status": "todo",
+      "priority": "normal",
+      "focusDate": null,
+      "due": "2026-06-23",
+      "collab": [],
+      "links": [],
+      "subtasks": [],
+      "remarks": "",
+      "completedAt": null
     }
   ],
   "meetings": []
