@@ -121,11 +121,14 @@
       "title": "Deep Learning AI course",
       "cat": "nvidia",
       "status": "todo",
-      "due": null,
+      "due": "2026-06-27",
       "collab": [],
       "links": [],
       "remarks": "",
-      "completedAt": null
+      "completedAt": null,
+      "priority": "normal",
+      "focusDate": null,
+      "subtasks": []
     },
     {
       "id": "t12",
