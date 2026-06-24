@@ -210,6 +210,20 @@
       "subtasks": [],
       "remarks": "",
       "completedAt": "2026-06-23"
+    },
+    {
+      "id": "tmqrtzwl8r2ko",
+      "title": "Richmond Robot Requirement Proposal",
+      "cat": "jorvix",
+      "status": "progress",
+      "priority": "high",
+      "focusDate": "2026-06-24",
+      "due": "2026-06-24",
+      "collab": [],
+      "links": [],
+      "subtasks": [],
+      "remarks": "",
+      "completedAt": null
     }
   ],
   "meetings": []
