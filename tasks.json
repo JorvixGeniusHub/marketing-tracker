@@ -215,7 +215,7 @@
       "id": "tmqrtzwl8r2ko",
       "title": "Richmond Robot Requirement Proposal",
       "cat": "jorvix",
-      "status": "progress",
+      "status": "done",
       "priority": "high",
       "focusDate": "2026-06-24",
       "due": "2026-06-24",
@@ -223,7 +223,7 @@
       "links": [],
       "subtasks": [],
       "remarks": "",
-      "completedAt": null
+      "completedAt": "2026-06-25"
     }
   ],
   "meetings": []
