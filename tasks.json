@@ -256,6 +256,20 @@
       "subtasks": [],
       "remarks": "",
       "completedAt": "2026-06-26"
+    },
+    {
+      "id": "tmqyijyl4xl63",
+      "title": "Email to all 15 companies for data collection",
+      "cat": "jorvix",
+      "status": "todo",
+      "priority": "high",
+      "focusDate": "2026-06-29",
+      "due": "2026-06-29",
+      "collab": [],
+      "links": [],
+      "subtasks": [],
+      "remarks": "",
+      "completedAt": null
     }
   ],
   "meetings": []
