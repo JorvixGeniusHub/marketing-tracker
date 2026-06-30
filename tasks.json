@@ -289,7 +289,7 @@
       "id": "tmqyil3losnva",
       "title": "Follow Up on OPPO",
       "cat": "jorvix",
-      "status": "blocked",
+      "status": "done",
       "priority": "high",
       "focusDate": null,
       "due": "2026-06-29",
@@ -297,7 +297,7 @@
       "links": [],
       "subtasks": [],
       "remarks": "",
-      "completedAt": null
+      "completedAt": "2026-06-30"
     },
     {
       "id": "tmqynullwvr95",
